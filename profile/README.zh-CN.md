@@ -9,7 +9,7 @@
 | 项目 | 用途 | 当前状态 |
 | --- | --- | --- |
 | [UniRouter](https://github.com/foigent/unirouter) | 模型接入、路由、策略、用量与计费，并提供可检查的执行回执。 | 源码已公开 |
-| X-Insight | 将获授权的执行与工作事实关联到调查和复核流程。 | 正在准备公开源码 |
+| [X-Insight](https://github.com/foigent/x-insight) | 将获授权的执行与工作事实关联到调查和复核流程。 | 源码已公开 |
 
 UniRouter 处理模型请求，记录用量与计费事实；X-Insight 异步接收获授权的事实。
 两个产品可以独立使用，X-Insight 不进入同步模型请求的关键路径。

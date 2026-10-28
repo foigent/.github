@@ -10,7 +10,7 @@ and costs, and investigate what happened.
 | Project | What it does | Availability |
 | --- | --- | --- |
 | [UniRouter](https://github.com/foigent/unirouter) | Model access, routing, policies, usage and billing, with inspectable execution receipts. | Public source |
-| X-Insight | Brings authorized execution and work facts into investigation and review workflows. | Preparing to publish the source |
+| [X-Insight](https://github.com/foigent/x-insight) | Brings authorized execution and work facts into investigation and review workflows. | Public source |
 
 UniRouter handles model requests and records their usage and billing facts.
 X-Insight receives authorized facts asynchronously. The products are independent;
